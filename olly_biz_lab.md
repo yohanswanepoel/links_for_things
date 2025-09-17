@@ -1,5 +1,8 @@
 # Links for the September Observability Lab
 
+## Blue tags
+* https://epj8741h.sprint.apps.dynatracelabs.com/ui
+
 ## Lab Environment Setup
 * Lab Instruction: https://dynatrace-wwse.github.io/enablement-business-observability/getting-started/
 * Step 1: Codespaces - but first we need a URL and a token for Kubernetes
