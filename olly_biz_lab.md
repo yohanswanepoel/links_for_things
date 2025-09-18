@@ -3,7 +3,7 @@
 ## Blue tags
 * https://epj8741h.sprint.apps.dynatracelabs.com/ui
 * user: mieliepapislekker@gmail.com
-* password: ImmersionDay12()
+* password: See email 
 
 ## Lab Environment Setup
 * Lab Instruction: https://dynatrace-wwse.github.io/enablement-business-observability/getting-started/
